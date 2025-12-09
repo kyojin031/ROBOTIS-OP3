@@ -1,89 +1,90 @@
-r_sho_pitch:
-  position_d_gain: 32
+l_sho_pitch:
+  position_d_gain: 48
   position_i_gain: 0
-  position_p_gain: 32
+  position_p_gain: 48
   return_delay_time: 1
 
-l_sho_pitch:
-  position_d_gain: 32
+l_sho_roll:
+  position_d_gain: 48
   position_i_gain: 0
-  position_p_gain: 32
+  position_p_gain: 48
+  return_delay_time: 1
+
+l_el:
+  position_d_gain: 48
+  position_i_gain: 0
+  position_p_gain: 48
   return_delay_time: 1
 
 r_hip_yaw:
-  position_d_gain: 32
+  position_d_gain: 48
   position_i_gain: 0
-  position_p_gain: 32
+  position_p_gain: 48
   return_delay_time: 1
 
 l_hip_yaw:
-  position_d_gain: 32
+  position_d_gain: 48
   position_i_gain: 0
-  position_p_gain: 32
+  position_p_gain: 48
   return_delay_time: 1
 
 r_hip_roll:
-  position_d_gain: 32
+  position_d_gain: 48
   position_i_gain: 0
-  position_p_gain: 32
+  position_p_gain: 48
   return_delay_time: 1
 
 l_hip_roll:
-  position_d_gain: 32
+  position_d_gain: 48
   position_i_gain: 0
-  position_p_gain: 32
+  position_p_gain: 48
   return_delay_time: 1
 
 r_hip_pitch:
-  position_d_gain: 32
+  position_d_gain: 48
   position_i_gain: 0
-  position_p_gain: 32
+  position_p_gain: 48
   return_delay_time: 1
 
 l_hip_pitch:
-  position_d_gain: 32
+  position_d_gain: 48
   position_i_gain: 0
-  position_p_gain: 32
+  position_p_gain: 48
   return_delay_time: 1
 
 r_knee:
-  position_d_gain: 32
+  position_d_gain: 48
   position_i_gain: 0
-  position_p_gain: 32
+  position_p_gain: 48
   return_delay_time: 1
 
 l_knee:
-  position_d_gain: 32
+  position_d_gain: 48
   position_i_gain: 0
-  position_p_gain: 32
+  position_p_gain: 48
   return_delay_time: 1
 
 r_ank_pitch:
-  position_d_gain: 32
+  position_d_gain: 48
   position_i_gain: 0
-  position_p_gain: 32
+  position_p_gain: 48
   return_delay_time: 1
 
 l_ank_pitch:
-  position_d_gain: 32
+  position_d_gain: 48
   position_i_gain: 0
-  position_p_gain: 32
+  position_p_gain: 48
   return_delay_time: 1
 
 r_ank_roll:
-  position_d_gain: 32
+  position_d_gain: 48
   position_i_gain: 0
-  position_p_gain: 32
+  position_p_gain: 48
   return_delay_time: 1
 
 l_ank_roll:
-  position_d_gain: 32
+  position_d_gain: 48
   position_i_gain: 0
-  position_p_gain: 32
+  position_p_gain: 48
   return_delay_time: 1
 
-head_tilt:
-  position_d_gain: 32
-  position_i_gain: 0
-  position_p_gain: 32
-  return_delay_time: 1
